@@ -1,4 +1,3 @@
-<!doctype html><!--声明是一个HTML文件--> 
 <html> 
   <!--头部开始--> 
   <head> 
@@ -9,7 +8,7 @@
     <p align="center"><img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4a28b141da58ccbf1bbcb23c21e3db03/908fa0ec08fa513ddf61742d366d55fbb3fbd97e.jpg"></p><!--图片居中-->
     <p>刘谋，1991年4月17日出生，英雄联盟项目电子竞技选手，游戏ID为PDD，前NGG、EHOME战队LOL分部队长，后转会并退役于Invictus Gaming.LOL分部，IG战队上单选手。
 2013年SWL联赛第二赛季冠军，2013IEM新加坡站冠军，2014LPL春季赛亚军 [1-2]  。2014年6月15日，刘谋在微博上正式宣布退役。2019年3月25日，正式签约斗鱼直播平台。</p> 
-  <p span style="font-size:25px;color:#FF0666;"></span><b>电竞生涯</b></p> 
+  <p span style="font-size:25px;color:#FF0666;"><b>电竞生涯</b></span></p> 
   <p>在2011年6月，《英雄联盟》刚刚进入中国。刘谋加盟了他的第一支职业战队---NGG战队。经过两个月的历练后，同年8月刘谋转投EHOME战队.</p>
 <P>在2011年11月在TGC联赛上EHOME战队最终不敌WE战队夺得亚军。</P> 
 <P>2012年3月，刘谋宣布退役。 </P> 
