@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /favicon.ico
-
-sitemap:https://141jier.github.io/sitemap.xml
