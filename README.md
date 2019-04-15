@@ -1,11 +1,11 @@
 <html> 
-  <!--头部开始--> 
   <head> 
-    <meta charset="utf-8"><!--规定HTML文档的字符编码为utf-8--> 
+    <meta charset="utf-8">
     <title>嫖断屌-PDD</title> 
+    <meat name="description" content="一个大胖子">
   </head> 
   <body> 
-    <p align="center"><img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4a28b141da58ccbf1bbcb23c21e3db03/908fa0ec08fa513ddf61742d366d55fbb3fbd97e.jpg"></p><!--图片居中-->
+    <p align="center"><img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4a28b141da58ccbf1bbcb23c21e3db03/908fa0ec08fa513ddf61742d366d55fbb3fbd97e.jpg"></p>
     <p>刘谋，1991年4月17日出生，英雄联盟项目电子竞技选手，游戏ID为PDD，前NGG、EHOME战队LOL分部队长，后转会并退役于Invictus Gaming.LOL分部，IG战队上单选手。
 2013年SWL联赛第二赛季冠军，2013IEM新加坡站冠军，2014LPL春季赛亚军 [1-2]  。2014年6月15日，刘谋在微博上正式宣布退役。2019年3月25日，正式签约斗鱼直播平台。</p> 
   <p span style="font-size:25px;color:#FF0666;"><b>电竞生涯</b></span></p> 
@@ -19,7 +19,7 @@
 <P>2014年LPL春季赛季后赛，IG战队0：3败于EDG战队取得亚军。<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a66a6b5eef1190ef05fb95ddfe1a9df7/314e251f95cad1c884d94794773e6709c93d5126.jpg"> </P> 
 <P>2014年6月15日，刘谋在微博上宣布正式退役。 </P>
 <P>2019年3月25日，正式入驻斗鱼直播平台。</p> 
- 
+ <p>大胖子联系方式--<a href="tel:13528926573">13528926573</a></p> 
+ <p>大胖子的邮箱--<a href="mailto:1543730162@qq.com">1543730162@qq.com</a></p>
   </body> 
-  <!--主体结束--> 
 </html>
