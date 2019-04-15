@@ -1,5 +1,4 @@
 <html> 
-  <head> 
     <meta charset="utf-8">
     <title>嫖断屌-PDD</title> 
     <meat name="description" content="一个大胖子">
