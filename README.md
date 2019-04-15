@@ -20,6 +20,7 @@
 <P>2014年LPL春季赛季后赛，IG战队0：3败于EDG战队取得亚军。<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=a66a6b5eef1190ef05fb95ddfe1a9df7/314e251f95cad1c884d94794773e6709c93d5126.jpg"> </P> 
 <P>2014年6月15日，刘谋在微博上宣布正式退役。 </P>
 <P>2019年3月25日，正式入驻斗鱼直播平台。</p> 
+  <p>最后，一个视频了解骚猪<a href="https://www.bilibili.com/video/av4606803?from=search&seid=2458807170531105858"><span style="font-size:50px;color:#FF0000;">全英雄联盟最骚的骚猪</span> </a>
  <p>大胖子联系方式--<a href="tel:13528926573">13528926573</a></p> 
  <p>大胖子的邮箱--<a href="mailto:1543730162@qq.com">1543730162@qq.com</a></p>
  <p><div style="position:fixed;bottom:5px;right:5px;opacity:1;cursor:pointer;">
