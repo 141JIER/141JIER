@@ -1,8 +1,8 @@
 <html> 
+     <head> 
     <meta charset="utf-8">
     <title>嫖断屌-PDD</title> 
     <meat name="description" content="一个大胖子">
-  </head> 
   <body> 
     <p align="center"><img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4a28b141da58ccbf1bbcb23c21e3db03/908fa0ec08fa513ddf61742d366d55fbb3fbd97e.jpg"></p>
     <p>刘谋，1991年4月17日出生，英雄联盟项目电子竞技选手，游戏ID为PDD，前NGG、EHOME战队LOL分部队长，后转会并退役于Invictus Gaming.LOL分部，IG战队上单选手。
